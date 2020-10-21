@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarketStore</string>
+
+    <string name="title_section1">Teléfonos</string>
+    <string name="title_section2">Tablets</string>
+    <string name="title_section3">Portátiles</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_shop">Carrito De Compras</string>
+</resources>
